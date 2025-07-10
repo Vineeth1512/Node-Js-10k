@@ -1,0 +1,12 @@
+{
+  "name": "node-intro",
+  "version": "1.0.0",
+  "description": "\"This is node js itroduction\"",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "node index.js"
+  },
+  "author": "vineeth",
+  "license": "ISC"
+}

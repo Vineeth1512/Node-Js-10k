@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "lenovo k9 mobile",
+    "category": "electronics",
+    "price": 60000
+  },
+  {
+    "id": 2,
+    "name": "t-shirt",
+    "category": "clothing",
+    "price": 600
+  },
+  {
+    "id": 42,
+    "name": "Boxer",
+    "category": "Clothing",
+    "price": 1100
+  }
+]
